@@ -1,0 +1,17 @@
+.saved-articles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    
+}
+
+.saved-articles p{
+    font-weight: bold;
+    font-size: 30px;
+    color :white;
+    background-color: rgb(255, 0, 72);
+    padding :  10px 30px;
+    font-family: sans-serif;
+    border-radius: 20px;
+}
