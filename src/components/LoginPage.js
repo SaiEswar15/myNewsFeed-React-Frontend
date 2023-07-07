@@ -63,7 +63,7 @@ function LoginPage() {
         if(status)
         {
             dispatch(authActions.changeLoginStatus(true))
-            Navigate("/news")
+            Navigate("/")
         }
 
     }
